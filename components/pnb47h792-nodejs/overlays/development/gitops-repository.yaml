@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pnb47h792-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pnb47h792-nodejs-gitops
